@@ -61,6 +61,12 @@ img {
   background-color: var(--secondary-color-dark);
 }
 
+.cv__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 a {
   text-decoration: none;
   color: var(--text-color);
